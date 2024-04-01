@@ -3,7 +3,7 @@ What They Forgot To Teach You About R
 
 ### posit::conf(2024)
 
-by INSTRUCTOR_NAME
+by E. David Aja, Shannon Pileggi
 
 -----
 
