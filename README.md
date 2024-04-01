@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+What They Forgot To Teach You About R
 ================
 
 ### posit::conf(2024)
