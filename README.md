@@ -3,7 +3,7 @@ What They Forgot To Teach You About R
 
 ### posit::conf(2024)
 
-by E. David Aja, Shannon Pileggi
+by E. David Aja + Shannon Pileggi
 
 [pos.it/wtf](https://rstats.wtf/) <– The One True URL that links to everything!
 
