@@ -29,13 +29,20 @@ here.
 
 -----
 
-## Description
+# Description
 
-ADD DESCRIPTION
+This 1 day What They Forgot (WTF) To Teach You About R workshop is for experienced R and RStudio users who want to better understand R execution via debugging and personal R administration. At the conclusion of the workshop you will have distinct strategies for debugging your own code versus someone else's code, as well as strategies for maintaining your R installation through the lens of reproducibility.
 
-## Audience
+# Audience
 
-ADD AUDIENCE INFO
+This course is for you if you:
+
+-   Have you been using R for a while and you want a deeper understanding of what code is executing when and where it is coming from.
+
+-   Want strategies for overcoming roadblocks when when all else has failed in function execution or package installation.
+
+-   Are willing to get into the weeds of your R installation, project organization, error messages, and source code.
+
 
 ## Prework
 
