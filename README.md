@@ -25,18 +25,21 @@ This 1 day What They Forgot (WTF) To Teach You About R workshop is for experienc
 This course is for you if you:
 
 -   Have you been using R for a while and you want a deeper understanding of what code is executing when and where it is coming from.
-
 -   Want strategies for overcoming roadblocks when when all else has failed in function execution or package installation.
-
 -   Are willing to get into the weeds of your R installation, project organization, error messages, and source code.
 
 
 ## Prework
 
-ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO
-COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON
-RSTUDIO COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN
-RSTUDIO.CLOUD ACCOUNT, ETC.
+Please have two recent versions of R installed, as well as a recent version of RStudio: 
+- R == 4.1.3
+- R >= 4.3
+- [RStudio >= 2024.04.1+748](https://posit.co/download/rstudio-desktop/)
+
+See the discussion in Install or upgrade R and RStudio: https://happygitwithr.com/install-r-rstudio.html#install-r-rstudio
+It is essential that you do the requested pre-workshop Git/GitHub setup in advance: https://happygitwithr.com/workshops.html#pre-workshop-set-up
+
+Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv"))`
 
 ## Schedule
 
