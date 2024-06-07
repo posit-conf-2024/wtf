@@ -49,9 +49,9 @@ Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "u
 | 10:30 - 11:00 | *Coffee break*                                  |                 |
 | 11:00 - 12:30 | [Debugging](https://rstats-wtf.github.io/wtf-debugging-slides/#/title-slide) | Shannon Pileggi |
 | 12:30 - 13:30 | *Lunch break*                                   |                 |
-| 13:30 - 15:00 | [Personal R Administration](https://rstats-wtf.github.io/wtf-version-control-slides/)                | E. David Aja  |
+| 13:30 - 15:00 | [Personal R Administration](https://rstats-wtf.github.io/wtf-personal-radmin-slides)                | E. David Aja  |
 | 15:00 - 15:30 | *Coffee break*                                  |                 |
-| 15:30 - 17:00 | [Personal R Administration](https://github.com/rstats-wtf/wtf-personal-radmin-slides)                | E. David Aja      |
+| 15:30 - 17:00 | [Personal R Administration](https://rstats-wtf.github.io/wtf-personal-radmin-slides)                | E. David Aja      |
 
 ## Instructor(s)
 
