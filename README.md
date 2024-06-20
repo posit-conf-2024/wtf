@@ -37,7 +37,6 @@ Please have two recent versions of R installed, as well as a recent version of R
 - [RStudio >= 2024.04.1+748](https://posit.co/download/rstudio-desktop/)
 
 See the discussion in Install or upgrade R and RStudio: https://happygitwithr.com/install-r-rstudio.html#install-r-rstudio
-It is essential that you do the requested pre-workshop Git/GitHub setup in advance: https://happygitwithr.com/workshops.html#pre-workshop-set-up
 
 Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv"))`
 
