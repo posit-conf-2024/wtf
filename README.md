@@ -28,17 +28,20 @@ This course is for you if you:
 -   Want strategies for overcoming roadblocks when when all else has failed in function execution or package installation.
 -   Are willing to get into the weeds of your R installation, project organization, error messages, and source code.
 
-
 ## Prework
 
 Please have two recent versions of R installed, as well as a recent version of RStudio: 
-- R == 4.1.3
-- R >= 4.3
+- one version of R >= 4.1 & R < 4.4
+- one version of R >= 4.4
 - [RStudio >= 2024.04.1+748](https://posit.co/download/rstudio-desktop/)
+
+You can find older versions of R [at this link for Windows](https://cran.r-project.org/bin/windows/base/old/) (click on the `.exe` file to install), at [this link for Intel Macs](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/), and at [this link for M-series Macs.](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)
 
 See the discussion in Install or upgrade R and RStudio: https://happygitwithr.com/install-r-rstudio.html#install-r-rstudio
 
 Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv"))`
+
+Install `rig`: https://github.com/r-lib/rig
 
 ## Schedule
 
