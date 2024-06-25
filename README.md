@@ -35,7 +35,7 @@ Please have two recent versions of R installed, as well as a recent version of R
 - one version of R >= 4.4
 - [RStudio >= 2024.04.1+748](https://posit.co/download/rstudio-desktop/)
 
-You can find older versions of R [at this link for Windows](https://cran.r-project.org/bin/windows/base/old/), at [this link for Intel Macs](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/), and at [this link for M-series Macs.](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)
+You can find older versions of R [at this link for Windows](https://cran.r-project.org/bin/windows/base/old/) (click on the `.exe` file to install), at [this link for Intel Macs](https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/), and at [this link for M-series Macs.](https://cran.r-project.org/bin/macosx/big-sur-arm64/base/)
 
 See the discussion in Install or upgrade R and RStudio: https://happygitwithr.com/install-r-rstudio.html#install-r-rstudio
 
