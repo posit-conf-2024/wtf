@@ -5,7 +5,7 @@ What They Forgot To Teach You About R
 
 by E. David Aja + Shannon Pileggi
 
-[pos.it/wtf](https://rstats.wtf/) <– The One True URL that links to everything!
+[rstats.wtf](https://rstats.wtf)
 
 -----
 
