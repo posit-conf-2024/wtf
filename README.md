@@ -30,7 +30,7 @@ This course is for you if you:
 
 ## Prework
 
-Please have two recent versions of R installed, as well as a recent version of RStudio: 
+1. Please have two recent versions of R installed, as well as a recent version of RStudio: 
 - one version of R >= 4.1 & R < 4.4
 - one version of R >= 4.4
 - [RStudio >= 2024.04.1+748](https://posit.co/download/rstudio-desktop/)
@@ -39,9 +39,14 @@ You can find older versions of R [at this link for Windows](https://cran.r-proje
 
 See the discussion in Install or upgrade R and RStudio: https://happygitwithr.com/install-r-rstudio.html#install-r-rstudio
 
-Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv"))`
+2. Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv"))`
 
-Install `rig`: https://github.com/r-lib/rig
+3. Install `rig`: https://github.com/r-lib/rig
+
+4. Please make sure your system is ready to build packages. You can 
+confirm this by checking if `devtools::has_devel()` returns `Your system is ready to build packages!`. 
+If this returns `Could not find tools necessary to compile a package` please follow 
+instructions in What They Forgot to Teach You About R Ch 9: Set up an R dev environment.
 
 ## Schedule
 
