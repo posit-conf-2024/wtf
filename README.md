@@ -39,7 +39,7 @@ You can find older versions of R [at this link for Windows](https://cran.r-proje
 
 See the discussion in Install or upgrade R and RStudio: https://happygitwithr.com/install-r-rstudio.html#install-r-rstudio
 
-2. Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv"))`
+2. Install the following packages: `install.packages(c("tidyverse", "rmarkdown", "usethis", "fs", "here", "renv", "devtools"))`
 
 3. Install `rig`: https://github.com/r-lib/rig
 
